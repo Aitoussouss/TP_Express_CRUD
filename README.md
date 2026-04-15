@@ -1,5 +1,5 @@
 # 📦 TP Express CRUD avec EJS
-
+![Home](./crud.png)
 ## 📖 Description
 
 Ce projet est une application CRUD simple développée avec **Node.js**, **Express**, **MongoDB** et **EJS**.
